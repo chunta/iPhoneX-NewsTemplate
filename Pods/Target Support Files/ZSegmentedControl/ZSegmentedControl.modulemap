@@ -1,0 +1,6 @@
+framework module ZSegmentedControl {
+  umbrella header "ZSegmentedControl-umbrella.h"
+
+  export *
+  module * { export * }
+}

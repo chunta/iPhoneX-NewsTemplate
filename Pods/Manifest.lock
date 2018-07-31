@@ -1,0 +1,72 @@
+PODS:
+  - CCBottomRefreshControl (0.5.2)
+  - DACircularProgress (2.3.1)
+  - FCAlertView (1.4.0)
+  - JSONModel (1.7.0)
+  - LGRefreshView (1.0.5):
+    - DACircularProgress (~> 2.3.0)
+  - Masonry (1.1.0)
+  - PKHUD (5.1.0)
+  - Popover (1.2.0)
+  - Realm (3.7.4):
+    - Realm/Headers (= 3.7.4)
+  - Realm/Headers (3.7.4)
+  - RealmSwift (3.7.4):
+    - Realm (= 3.7.4)
+  - Segmentio (3.0)
+  - SQLite.swift (0.11.5):
+    - SQLite.swift/standard (= 0.11.5)
+  - SQLite.swift/standard (0.11.5)
+  - SwiftHTTP (3.0.1)
+  - ZSegmentedControl (0.0.3)
+
+DEPENDENCIES:
+  - CCBottomRefreshControl
+  - FCAlertView
+  - JSONModel
+  - LGRefreshView
+  - Masonry
+  - PKHUD (~> 5.0)
+  - Popover
+  - RealmSwift
+  - Segmentio (~> 3.0)
+  - SQLite.swift (~> 0.11.5)
+  - SwiftHTTP
+  - ZSegmentedControl
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CCBottomRefreshControl
+    - DACircularProgress
+    - FCAlertView
+    - JSONModel
+    - LGRefreshView
+    - Masonry
+    - PKHUD
+    - Popover
+    - Realm
+    - RealmSwift
+    - Segmentio
+    - SQLite.swift
+    - SwiftHTTP
+    - ZSegmentedControl
+
+SPEC CHECKSUMS:
+  CCBottomRefreshControl: 389780b4488321c91d18f66a6da5ef9606df6de5
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  FCAlertView: fdddd63381898c1d1a5a20c9f084fbd2c6d12f8b
+  JSONModel: 840bc0fcffb24b8454d2c026bf26fea454b8e98d
+  LGRefreshView: 34746afadbd23de8d1449cab15f3d89269645d43
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  PKHUD: 62ea46a1e88c4def1da784878d199bb54c841e3c
+  Popover: 28c1ac8e937ab2b3965bd2da7dd18324357abc41
+  Realm: a469bb59e33f9926102ccaea4349822c53b9117e
+  RealmSwift: a45861b21c180f5cf0f122144b9759fa8dde3e9e
+  Segmentio: 1607fba3b42230f5f91e997d1a3f337f1176674c
+  SQLite.swift: 6e5356850bb1791459f8c16d6ee9195b28714a2e
+  SwiftHTTP: e94f1aa8cde58637dcc0100f6349de31a3337fde
+  ZSegmentedControl: 2eeb2eca88f15ae75589eff9be8db65797df9ccc
+
+PODFILE CHECKSUM: 5cfd8ba5436bb1098ee9c214c6192ff3de0442e7
+
+COCOAPODS: 1.5.3
